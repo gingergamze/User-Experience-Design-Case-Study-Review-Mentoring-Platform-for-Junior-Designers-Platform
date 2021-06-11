@@ -6,6 +6,7 @@ Gamze Bozkurt
 
 Graduation Project
 HU University of Applied Sciences Utrecht
+
 11.06.2021
 
 Abstract
