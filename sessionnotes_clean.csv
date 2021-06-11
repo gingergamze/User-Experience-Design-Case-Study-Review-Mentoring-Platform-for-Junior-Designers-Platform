@@ -1,0 +1,111 @@
+﻿notes
+Consider the site as a red brick road: move your users flawlessly starting with one segment then onto the next by understanding user personas’ objectives and requirements.
+"Customers are more likely to see things close to the top of the page, so as of their importance"
+Steady and simple to use web interfaces assist users with focusing on the substance and move through it
+Abstain from making dead-end pages on sites. They create confusion and make extra work for customers
+Utilize common site patterns and interfaces; don’t cause customers to discover some new information
+"Customers will scroll down the website pages as long as simple and clear, relevant data is underneath the fold"
+Your site ought to consistently give a solid visual indication of the direction of scrolling and whether more content is accessible
+"The longer the site pages, the less likely somebody is to scroll down to the bottom"
+Running website pages are pleasant because scrolling is quicker than clicking – simply don’t make the web pages too long
+Design for visually challenged customers. Convert your page design to grayscale to guarantee all users can read significant data
+Try not to utilize the shading blue for any text on sites other than links
+Know about the differentiation of mobile sites. Screen glare can render your site unusable
+Hold one color for CTAs on your site and don’t utilize it for anything else
+"Warm, bright colors come to the front and cold, dim colors remain out of sight"
+Ensure site users can finish their essential goal rapidly and without any problem
+What makes a difference the most to customers is that your site needs a quick load
+"The impression of site speed depends on load time, response time, load behavior and perfection of animations"
+Show a skeleton of the site’s components to communicate the format when it is stacking
+Site text should load before pictures so customers can begin perusing before the rest of the website loads
+Loading longer than a few seconds will often make customers leave the site
+Mobile interface components are difficult to tap precisely if they’re little or approximate
+The minimum size for a touch target on mobiles ought to be 1cm x 1cm with appropriate padding
+Somebody utilizing a pinky finger on your mobile site or application implies that the interface targets are too small
+"When holding a tablet, the sides and base of the screen are most effortlessly reached with the thumb"
+Try not to require vertical swiping for anything other than typical website scrolling
+Try not to utilize double-taps on the phone device. Ensure users can interact with one-touch
+Decide if users will utilize devices with one hand or two when planning mobile designs
+Always have a smooth way to get to the navigation menu on your site
+"If your site hierarchy is bigger than 3-4 levels deep, it’s an ideal time to upgrade"
+"Think about utilizing sticky menus, particularly on longer website pages or when quick access is required"
+"Great site navigation isn’t standing out, it vanishes away from the background"
+Make your navigation steady; it shouldn’t change all through the site
+"Make navigation labels specific, close to 2-3 words and start with the most data-carrying word"
+Let customers know where they are on the site by utilizing breadcrumbs
+Mobile navigation: Show the foremost regularly used options and shroud the others under a hamburger menu
+"Hamburger menus on desktops are less perceptible, less recognizable, increase interaction cost and lessen data scent"
+"For secondary navigation on mobiles, use category landing pages, submenus or in-page menus"
+"Menu dropdowns ought to be vertical, not horizontal hover; it is a lot harder to scroll horizontally"
+Megamenus ought to be smaller than the page so it is simple to “click out” of them
+"In the case of utilizing mega menus, arrange links into groups and recognize as clickable and non-clickable items"
+Try not to hide login or search features inside site menus
+Adjust form labels and fields in a solitary vertical line to permit for fast scanning
+"Field labels ought to be outside the content field, not inside, so customers don’t lose track of them"
+Split up areas with separators to make long web forms easier to understand
+Put form errors close to the mistake causing fields on all web structures
+"Error messages ought to be useful, usable, brief and easy to understand"
+"Show all error-causing fields without a moment’s delay, close to each problematic field so mobile customers don’t miss the warning"
+Links on sites must stick out – utilize blue text as well as underlining to point hyperlinks
+Links ought to consistently look like links
+A user shouldn’t need to tap on a link to make sense of where it leads. The link text should let them know
+Try not to utilize blue text or underlining for non-linked elements in sites or applications
+A reference to a full URL anyplace on a site ought to always link to that page
+"Certain elements, for example, product pictures or reviews, are always expected to be interactive"
+Utilize a special color for visited links on sites to diminish users’ memory load
+Buttons on sites must look interactive and have enough space for customers to tap or click comfortably
+"Visit activities on sites or applications ought to be enormous buttons, set in effectively reachable zones"
+"Background colors, borders and activity situated labels on a site signal to customers that a component is clickable"
+"For flat designs, ensure that action buttons are wiped out shading from an action-oriented label"
+A site ought to have a viewable sign that a button click was effective within 0.1 seconds of the interaction
+Buttons that change or erase information on mobiles ought to require more effort to click to stop accidental clicking
+"Except if you have a small site with minimal content, always have an inquiry or search field"
+The search field ought to always appear as though a text box on a desktop. The inquiry icon is OK to use for mobile
+Make the search field simple to discover. Customers typically search for it in the upper right corner
+"When trying to find a search button on sites, customers ordinarily search for a “little box to type in”"
+Search fields on sites ought to be sufficiently wide to see the whole search query
+Avoid carousels: each new slide eradicates the memory of the last slide. Customers can focus on just a single thing at once
+Dots on carousels are hard to see on mobile sites. Use pictures looking from the left and right
+"Instead of carousel navigation arrows, utilize details labels so customers recognize what’s in store on the following slide"
+Only about 1% of customers click on carousel slides on sites so don’t depend on those clicks
+Site carousels that slide consequently should change to manual once customers interact with them
+Use accordions to pack lengthy content on mobile sites
+"When utilizing accordions, offer an approach to collapse any uncovered content once the customers have extended it"
+Pros of utilizing accordions on mobile sites: Shorter pages are simpler to use than in-page bounce links
+Cons of utilizing accordions on mobile sites: Increased interaction cost; out of sight is out of mind
+The fundamental purpose of every site page ought to be obvious to the customer
+Customers are hesitant to utilize Help on your site. Put it in context and supply wizards and FAQs once applicable
+Show hints on sites and applications in context and just when required
+Help and guidelines should be short and visually not quite the same as other interface elements
+Just present one hint at a time on sites and mobile applications. This decreases memory burden
+"Symbols should visually describe their purpose and function. Make them simple, meaningful and familiar"
+Icons should possibly be utilized when important. Abstain from overusing them and don’t utilize them simply for decoration
+The most significant data on your website page should always stand out as the most visually prominent
+Put key data first. Customers start at the upper left and the first 2-3 words are examined the most
+Spot high-need content at the head of the site page. Use analytics to decide priorities on different devices
+Use color and size contrast on your site to differentiate essential data from supporting details
+"Priorities, like context, area, and emergency info, are increasingly significant for mobile users"
+"Priorities for mobile: Location, telephone number, occasions, emergency data, time-sensitive information and information needed on-the-go"
+"Simple, obvious terms are superior to industry jargon or trendy terms for site navigation"
+Most customers check first and read later. Utilize visual variety and significant content to make checking simpler
+Readability isn’t just about whether you can read something – it’s additionally about whether you need to read it
+"Utilize increased line spacing between bulleted lists, numbered lists, lines, and sections to increase readability"
+"While picking a site text font, think about its intelligibility, readability, loads and styles"
+"On mobile sites and applications, consider making a font’s x-height bigger to improve its readability"
+"Avoid small fonts on all digital devices, particularly for a long-form copy. Try not to utilize consolidated fonts in the body text"
+Ensure that the content size for headlines on a mobile site is as responsive as the rest of the content
+Increment font size on mobile sites – always scale font size to the screen size
+Banner Blindness: customers take effort not to look at anything that likes promoting banners
+Create long text blocks simpler to read by including just a single thought for each paragraph
+"Italicized text is harder to read, especially for dyslexic readers"
+Try not to USE ALL CAPS IN YOUR HEADLINES AND TAGLINES. It’s too hard to read.
+""
+""
+ 
+"
+
+
+
+"
+ 
+""

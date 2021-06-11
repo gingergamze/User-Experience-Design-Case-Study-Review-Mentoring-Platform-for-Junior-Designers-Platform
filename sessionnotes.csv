@@ -1,0 +1,109 @@
+﻿notes;rating_design;rating_uxresearch;rating_writing;rating_presentation;isRated
+Consider the site as a red brick road: move your users flawlessly starting with one segment then onto the next by understanding user personas’ objectives and requirements.;8;10;4;7;True
+Customers are more likely to see things close to the top of the page, so as of their importance;0;0;0;0;False
+Steady and simple to use web interfaces assist users with focusing on the substance and move through it;0;0;0;0;False
+Abstain from making dead-end pages on sites. They create confusion and make extra work for customers;0;0;0;0;False
+"Utilize common site patterns and interfaces; don’t cause customers to discover some new information";0;0;0;0;False
+Customers will scroll down the website pages as long as simple and clear, relevant data is underneath the fold;2;5;4;5;True
+Your site ought to consistently give a solid visual indication of the direction of scrolling and whether more content is accessible;0;0;0;0;False
+The longer the site pages, the less likely somebody is to scroll down to the bottom;0;0;0;0;False
+Running website pages are pleasant because scrolling is quicker than clicking – simply don’t make the web pages too long;5;0;0;7;True
+Design for visually challenged customers. Convert your page design to grayscale to guarantee all users can read significant data;2;1;4;1;True
+Try not to utilize the shading blue for any text on sites other than links;5;4;10;10;True
+Know about the differentiation of mobile sites. Screen glare can render your site unusable;0;0;0;0;False
+Hold one color for CTAs on your site and don’t utilize it for anything else;3;0;10;10;True
+Warm, bright colors come to the front and cold, dim colors remain out of sight;0;0;0;0;False
+Ensure site users can finish their essential goal rapidly and without any problem;0;0;0;0;False
+What makes a difference the most to customers is that your site needs a quick load;4;2;0;8;True
+The impression of site speed depends on load time, response time, load behavior and perfection of animations;6;10;9;2;True
+Show a skeleton of the site’s components to communicate the format when it is stacking;0;0;0;0;False
+Site text should load before pictures so customers can begin perusing before the rest of the website loads;0;0;0;0;False
+Loading longer than a few seconds will often make customers leave the site;3;6;1;9;True
+Mobile interface components are difficult to tap precisely if they’re little or approximate;0;0;0;0;False
+The minimum size for a touch target on mobiles ought to be 1cm x 1cm with appropriate padding;5;9;6;4;True
+Somebody utilizing a pinky finger on your mobile site or application implies that the interface targets are too small;3;7;6;3;True
+When holding a tablet, the sides and base of the screen are most effortlessly reached with the thumb;0;0;0;0;False
+Try not to require vertical swiping for anything other than typical website scrolling;0;0;0;0;False
+Try not to utilize double-taps on the phone device. Ensure users can interact with one-touch;6;0;10;9;True
+Decide if users will utilize devices with one hand or two when planning mobile designs;0;0;0;0;False
+Always have a smooth way to get to the navigation menu on your site;5;9;8;8;True
+If your site hierarchy is bigger than 3-4 levels deep, it’s an ideal time to upgrade;0;0;0;0;False
+Think about utilizing sticky menus, particularly on longer website pages or when quick access is required;4;8;2;6;True
+Great site navigation isn’t standing out, it vanishes away from the background;0;0;0;0;False
+"Make your navigation steady; it shouldn’t change all through the site";0;0;0;0;False
+Make navigation labels specific, close to 2-3 words and start with the most data-carrying word;0;0;0;0;False
+Let customers know where they are on the site by utilizing breadcrumbs;0;0;0;0;False
+Mobile navigation: Show the foremost regularly used options and shroud the others under a hamburger menu;0;0;0;0;False
+Hamburger menus on desktops are less perceptible, less recognizable, increase interaction cost and lessen data scent;3;0;3;8;True
+For secondary navigation on mobiles, use category landing pages, submenus or in-page menus;0;0;0;0;False
+"Menu dropdowns ought to be vertical, not horizontal hover; it is a lot harder to scroll horizontally";0;0;0;0;False
+Megamenus ought to be smaller than the page so it is simple to “click out” of them;0;0;0;0;False
+In the case of utilizing mega menus, arrange links into groups and recognize as clickable and non-clickable items;0;0;0;0;False
+Try not to hide login or search features inside site menus;4;10;0;3;True
+Adjust form labels and fields in a solitary vertical line to permit for fast scanning;0;0;0;0;False
+Field labels ought to be outside the content field, not inside, so customers don’t lose track of them;0;0;0;0;False
+Split up areas with separators to make long web forms easier to understand;4;10;10;1;True
+Put form errors close to the mistake causing fields on all web structures;0;0;0;0;False
+Error messages ought to be useful, usable, brief and easy to understand;2;3;7;3;True
+Show all error-causing fields without a moment’s delay, close to each problematic field so mobile customers don’t miss the warning;0;0;0;0;False
+Links on sites must stick out – utilize blue text as well as underlining to point hyperlinks;5;10;4;5;True
+Links ought to consistently look like links;3;9;2;2;True
+A user shouldn’t need to tap on a link to make sense of where it leads. The link text should let them know;0;0;0;0;False
+Try not to utilize blue text or underlining for non-linked elements in sites or applications;1;0;0;1;True
+A reference to a full URL anyplace on a site ought to always link to that page;0;0;0;0;False
+Certain elements, for example, product pictures or reviews, are always expected to be interactive;0;0;0;0;False
+Utilize a special color for visited links on sites to diminish users’ memory load;7;3;0;8;True
+Buttons on sites must look interactive and have enough space for customers to tap or click comfortably;0;0;0;0;False
+Visit activities on sites or applications ought to be enormous buttons, set in effectively reachable zones;6;6;6;5;True
+Background colors, borders and activity situated labels on a site signal to customers that a component is clickable;0;0;0;0;False
+For flat designs, ensure that action buttons are wiped out shading from an action-oriented label;0;0;0;0;False
+A site ought to have a viewable sign that a button click was effective within 0.1 seconds of the interaction;8;8;3;5;True
+Buttons that change or erase information on mobiles ought to require more effort to click to stop accidental clicking;0;0;0;0;False
+Except if you have a small site with minimal content, always have an inquiry or search field;9;0;0;6;True
+The search field ought to always appear as though a text box on a desktop. The inquiry icon is OK to use for mobile;0;0;0;0;False
+Make the search field simple to discover. Customers typically search for it in the upper right corner;0;0;0;0;False
+When trying to find a search button on sites, customers ordinarily search for a “little box to type in”;0;0;0;0;False
+Search fields on sites ought to be sufficiently wide to see the whole search query;6;0;3;3;True
+Avoid carousels: each new slide eradicates the memory of the last slide. Customers can focus on just a single thing at once;0;0;0;0;False
+Dots on carousels are hard to see on mobile sites. Use pictures looking from the left and right;3;5;6;3;True
+Instead of carousel navigation arrows, utilize details labels so customers recognize what’s in store on the following slide;0;0;0;0;False
+Only about 1% of customers click on carousel slides on sites so don’t depend on those clicks;0;0;0;0;False
+Site carousels that slide consequently should change to manual once customers interact with them;0;0;0;0;False
+Use accordions to pack lengthy content on mobile sites;3;9;1;10;True
+When utilizing accordions, offer an approach to collapse any uncovered content once the customers have extended it;0;0;0;0;False
+Pros of utilizing accordions on mobile sites: Shorter pages are simpler to use than in-page bounce links;0;0;0;0;False
+"Cons of utilizing accordions on mobile sites: Increased interaction cost; out of sight is out of mind";6;6;0;2;True
+The fundamental purpose of every site page ought to be obvious to the customer;5;6;7;2;True
+Customers are hesitant to utilize Help on your site. Put it in context and supply wizards and FAQs once applicable;0;0;0;0;False
+Show hints on sites and applications in context and just when required;7;1;8;4;True
+Help and guidelines should be short and visually not quite the same as other interface elements;0;0;0;0;False
+Just present one hint at a time on sites and mobile applications. This decreases memory burden;0;0;0;0;False
+Symbols should visually describe their purpose and function. Make them simple, meaningful and familiar;4;3;10;5;True
+Icons should possibly be utilized when important. Abstain from overusing them and don’t utilize them simply for decoration;8;6;4;10;True
+The most significant data on your website page should always stand out as the most visually prominent;0;0;0;0;False
+Put key data first. Customers start at the upper left and the first 2-3 words are examined the most;0;0;0;0;False
+Spot high-need content at the head of the site page. Use analytics to decide priorities on different devices;0;0;0;0;False
+Use color and size contrast on your site to differentiate essential data from supporting details;0;0;0;0;False
+Priorities, like context, area, and emergency info, are increasingly significant for mobile users;0;0;0;0;False
+Priorities for mobile: Location, telephone number, occasions, emergency data, time-sensitive information and information needed on-the-go;0;4;7;4;True
+Simple, obvious terms are superior to industry jargon or trendy terms for site navigation;0;0;0;0;False
+Most customers check first and read later. Utilize visual variety and significant content to make checking simpler;0;0;0;0;False
+Readability isn’t just about whether you can read something – it’s additionally about whether you need to read it;3;9;10;5;True
+Utilize increased line spacing between bulleted lists, numbered lists, lines, and sections to increase readability;6;1;6;4;True
+While picking a site text font, think about its intelligibility, readability, loads and styles;2;7;5;7;True
+On mobile sites and applications, consider making a font’s x-height bigger to improve its readability;0;0;0;0;False
+Avoid small fonts on all digital devices, particularly for a long-form copy. Try not to utilize consolidated fonts in the body text;0;0;0;0;False
+Ensure that the content size for headlines on a mobile site is as responsive as the rest of the content;8;9;4;0;True
+Increment font size on mobile sites – always scale font size to the screen size;6;0;3;2;True
+Banner Blindness: customers take effort not to look at anything that likes promoting banners;5;8;2;5;True
+Create long text blocks simpler to read by including just a single thought for each paragraph;0;0;0;0;False
+Italicized text is harder to read, especially for dyslexic readers;0;0;0;0;False
+Try not to USE ALL CAPS IN YOUR HEADLINES AND TAGLINES. It’s too hard to read.;9;6;0;5;True
+;0;0;0;0;False
+;0;0;0;0;False
+"
+
+
+
+";5;0;0;7;True
+;0;0;0;0;False

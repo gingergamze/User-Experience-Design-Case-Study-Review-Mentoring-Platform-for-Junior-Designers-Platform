@@ -1,0 +1,582 @@
+,data
+0,"How Spotify organises work Spotify recently adopted Figma as their main design and prototyping tool. In this case study they openly share their reasoning behind it, how they went about it (including challenges), and their experience from the entire switch."
+1,"Designing a video creation platform Sascha, currently a design lead at Any.Do, shares his process for designing a video creation platform for Promo.com. Also worth checking out his other case studies, which include a VR Gallery for Daydream app."
+2,"Applying user research to a small e-commerce website Because of the situation we're in, e-commerce is booming right now, and I thought it might be useful to cover ta few case studies on the subject. In this one, Tiago shares his initial process for redesigning an e-commerce site for a small Portuguese shirt tailor. Although the case study is a few years old, his methods are evergreen and to the point."
+3,"The Current State of Checkout UX During Baymard's 9 years of large-scale checkout usability testing, they have consistently found the checkout design and flow to frequently be the sole cause for users abandoning their cart during the checkout flow. In this report, Baymard shares all their research findings and 18 common pitfalls to avoid in the UX of checkout."
+4,Democratizing access to bike maps Cristiano shares his process for designing an open platform to democratize access to bike maps of Brazilian cities.
+5,Reimagine the future of television Abdus shares how he and his team set out to solve the problem of content fragmentation in the world of TV.
+6,Productivity Tracker App Ilija shares how he imagines an ideal productivity tracker would look and feel like.
+7,Adventure Activity Meta-search Engine Pankhil goes in-depth in his conceptual case study of a travel marketplace.
+8,The Safest and Easiest Way to Use the Internet Judit and Matt give you insight into their UX process in re-designing a VPN service.
+9,"Africa’s Largest Mobile Broadband Provider An unsolicited redesign by Victor, who has set out to enhance the user experience of Africa's largest mobile ISP."
+10,"Space Design System Prathiba’s portfolio is a poster child for how a UX portfolio should look and feel. Few (four), but concise case studies and an interesting about story. Worth a look."
+11,"Unlimited from Postmates Samihah Azim (pronounced ‘sɑ: me: hɑ:), designer at Lyft, shares her process involved in designing Postmates Unlimited."
+12,"Burner for Android Lex Roman is specialised in Growth Design and shares her process trough interesting case studies in her portfolio. I also recommend taking a look at her blog, if your interested in the field of Growth Design."
+13,Designing the Flexbox Inspector Mozilla has been stepping up their browser game lately. Victoria give us an inside look about her process for designing the inspector tool in Firefox.
+14,DeskView Website Rainfall has documented their work behind the website for DeskView. A fresh looking product and a great site.
+15,Designing Accessible Escape Hatches for Modals Linzi Berry has written and illustrated a great dos and don'ts guide for exit icons.
+16,Emulation Is Not a Product Strategy Jesse Weaver has a fascinating take on YouTube's new business decision that opens up their premium content for free (with ads of course).
+17,3 UX Takeaways from Redesigning Google Translate Pendar Yousefi walks us through his team's design process and decisions surrounding the redesign of Google Translate.
+18,Netflix Discovery Experience Most of you have probably binged some Netflix. I know I have. Faraz shows his take on an unsolicited redesign of Netflix. Some interesting concepts here like a social aspect. It's not unlikely Netflix will implement a feature like that.
+19,Pears to Pairs Milan and her class got challenged by VC firm Matter and Facebook to take on Media consumption among teens. This is a long format case study in two parts explaining Milan and her team's process and solution.
+20,Moment Brew Jihoon and his team expose augmented reality in their graduate thesis. Glad to see AR being experimented with and I suspect we'll see a lot more of this in 2019. AR/UX designer next?
+21,"The Design of ConvertKit Over the Years I've been following Nathan Barry for a while and listened to several interviews, it started as a true maker story and evolved into what it is today; a multimillion-dollar business. In this case study, Nathan describes all his iterations from 2013 to 2018."
+22,Bringing the Breathe App From watchOS to iOS Daniel has a fascinating concept for an iOS version of the watchOS app called Breathe. We could all use a deep breath in these hectic times.
+23,Social and Discovery Mobile App for Action Sport Lovers Natalie walks us through her process for designing the user experience of a niche based social media and discovery platform.
+24,Shine Bank 80% Conversion Onboarding An interesting case study on growth design. Arnaud explains how his team on Shine creates trust with users and achieve 80% conversion from their onboarding experience.
+25,Creating a Build Mode for InVision’s Mobile App An unsolicited design challenge and solution by David Oliver. Sharing his design process used to implement a new (and cool) feature in InVision's mobile app.
+26,"Creating Slack's Illustration Voice An amazingly visual and detailed case study by Alice, the creator of Slack's illustrative voice."
+27,When Android Is a Better Way To Start? A side-by-side comparison of the difference in users of Android and iOS backed up with data references.
+28,"Putting Usability Ahead of Expressivity Rachel shares her process of designing a meal-planning app. Structured into two parts, and this final part shows how important user testing and feedback is to your design process."
+29,"Why Most Redesigns Fail ""People don’t like changes."" Girish does a fantastic job at explaining how to get redesigns right by avoiding crucial mistakes. Learn from other people failures."
+30,"Microsoft's New Modern Look Redesign of the Office app icons to embrace a new world of work. Microsoft is killing it right now with their design direction, both hardware, and software. At this rate, they'll surpass the ""other"" company in a not so distant future."
+31,Impact  —  A Crypto Platform Eftakher shows us his step-by-step process of designing a crypto platform.
+32,"Smart 24 – Safe Traveling App redesign to help ""danger as default"" travelers stay safe in the world’s most hostile places."
+33,Eleven James Website Design Luxury products married with the sharing economy by offering its members access to a wealth of high-end timepieces for a low monthly fee.
+34,Redesigning Google Classroom Making Google Classroom the optimal tool for helping students become better writers.
+35,"Redesign of a Canadian Lifestyle App Redesigning Drop, a Canadian deal service. An in-depth and solid case study by Felipe Cepero."
+36,"Redesign Concept of a Public Transportation App A redesign concept, simplifying Dubai metro transactions. I'm a public transportation user, and I’d like to try this."
+37,"The Journey, Not the Destination Claudio Guglieri, formerly Creative Director at Microsoft, just launched his IGTV series called ""The Journey, not the destination"". In it he covers his entire design process presented in bite-sized video episodes. This might be the coolest thing I've seen online this week."
+38,Google interaction design challenge tips Johny Vino is back with yet another case study. This time he takes on one of the interaction design challenges from Google.
+39,Optimizing landing pages Hugo Jenkins submitted this insightful case study and details how he optimized a landing page for conversion.
+40,Improving an Internal System for Borrowing Books Natalia Jach shares her process of how her company gave life to their library and made it more accessible to their employees.
+41,"Smart Dashboard For Better Decision Istiko Rahadi shares his process for designing an intelligence dashboard, to improve the efficiency of relationship managers."
+42,"How to Design Scannable App Screenshots Girish Rawat, UX researcher, making a case for scannable app screenshots. Not your typical unsolicited case study."
+43,"From Idea to App Store Robert Cooper shares his process of how he designed, built and launched his idea into the App Store."
+44,How to redesign a 175-year-old newspaper Phil Kenny and Stephen Petch walk us through the redesign process of the economist news publication.
+45,Using Design Sprints to Solve a Problem Erick Gavin explains how he utilized design sprints at UX boot camp to come up with a prototype that improves users well being.
+46,Resume Maker Side Project There's nothing like a good maker case study. A lot of great products start as side projects and learning how people do it is inspiring to kickstart your own ideas.
+47,New York Times x Google Maps An unsolicited case study by Jason Branch and his team. Merging NYT content (or any relevant content for that matter) with Google Maps is an interesting idea.
+48,"Prototyping a Smoother Map If you like technical case studies this is great. Antin Harasymiv, a UX Engineer at Google, share a glimpse into how Google Maps works."
+49,Explaining a complex financial product using animation It's no doubt that moving image is taking over the web. GIFs belong in the past... This case study explains how to go from GIFs to animated SVGs.
+50,"How to Build a Case for a Product Redesign How to merge two products after an acquisition. Maple, a designer at Google, walks us through their process."
+51,"Design Better Portfolios All the do's and don'ts for your portfolio. Follow these, and you'll be in good shape. Remember to break the rules to stand out (and know the rules before you break them)."
+52,Now Mobile App Now is a location-based social dating app that makes it easier than ever before for people to meet and enjoy real offline experiences at millions of public venues worldwide. 
+53,From Hackathon to Hire Talentbite is an online platform for the candidates in search of a job (actively or passively) and companies providing jobs.
+54,Unboxing Chrome
+55,Navigating App - UX Case Study
+56,Fedora Community Application
+57,How to Slack Smarter?
+58,MailChimp Continuous Onboarding
+59,"Repeat Roses Social impact-meets-sustainability. Repeat Roses removes, restyles and delivers floral arrangements to people in the community (hospitals, shelters, and charities). Repeat Roses recollects the flowers one last time for composting in order to divert waste from landfills.  "
+60,"The ultimate guide to animation in UX Animations play a significant role in UX. When the timing is right, it can enhance the experience multiple times."
+61,"Carousels on Mobile Devices We've all been tempted to use a carousel to save space on mobile devices, I know I'm guilty of it. "
+62,"Mythbuster: The Three Click Rule You've probably heard of the famous ""Three Click Rule,"" I've been an avid advocate for it myself for many years."
+63,How to Run 13 Design Sprints at Once
+64,Soulace UI Design
+65,Design Workshop: How We Got Creative with a Technical Audience
+66,How to redesign your web app as a startup
+67,Designing a food delivery app for motorbike drivers 
+68,Award-Winning Brand for Adobe Live Adobe Live is a great resource for learning about what goes on behind designers screens. This case study reveals the thinking behind their ideas of consistent use in their new brand.
+69,"Ever Better: Refreshing the Evernote Brand Evernote has been around forever and was long the winner amongst the sea of note taking apps. This case study details their new brand. A perfect example of evolution, not revolution."
+70,"Finding the Real Typeform [Video] In contrast to the Evernote case study, Typeform shows the power of total brand redesign. They’ve shifted their language towards a targeted audience. "
+71,Building HealthCare.gov for 30 million applicants Susan Lin shares her process of how she and her team designed the application process used by 30 million people.
+72,Screenlife App — a UI/UX case study Elvis Obanya shares his process of how he and his team used usability testing to iterate their designs into the best possible experience.
+73,Why redesigns don’t make users happy Vitaly Dulenko shares his insights and opinion on the topic of a redesign. 
+74,The Most Important Feature Amazon is Not Launching Business versus user experience design. Why Amazon is holding back on creating the best possible experience for you.
+75,How learning Design Sprint helped me improve my UI/UX design process From pixel pushing to design strategic wizardry. No clear-cut process will work for everyone. The key is to adapt to the challenges at hand constantly.
+76,A Faster and More Flexible Home Page that Delivers the News Readers Want Asking the right questions will make you and your work more confident. This is a deep dive into the minds of the designers behind one of the worlds most acclaimed newspapers; NY Times.
+77,"Carrd: The Making Of This indie project is such an inspiring story. AJ, the maker, has documented the whole process from idea to launch."
+78,"Why Redesign the Dropbox Logo? Design Master Brian Collins Explains If you're into branding, this video interview on YouTube is both entertaining and thought-provoking. Collins design studio has done some amazing work for Dropbox, Airbnb, and Spotify, just to name a few."
+79,"How to design user-friendly and business effective cancellation process In most cases, a product that serves users has some business behind it. That means business sometimes is the basis of great user experience design."
+80,How Dropbox redesigned their mobile experience for rapid work
+81,Designing a Text-To-Speech App From The Ground Up
+82,Designing the end pages for ‘An Absolutely Remarkable Thing’
+83,Evaluating Best Buy’s website design
+84,"Build­ing a dis­rup­tive frozen piz­za brand, from scratch"
+85,Hotel TV Reimagined
+86,Designer of Monument Valley Deconstructs His Latest Game
+87,Designing a decentralized incentive userfeed network
+88,Smart calendar for traveling salespeople
+89,Designing Google Maps for Motorbikes
+90,Join.Chat Messenger | A Case Study
+91,Creation of a Virtual Skilled Service Marketplace
+92,"The McDelivery app, reimagined"
+93,Appheimer Case Study
+94,Sharing UX research results with comics
+95,How Pancentric is bringing design thinking to the insurance world
+96,"“Ok-Key” and “Cancel-Key”, Which One Should Be Set Up on the Left?"
+97,"The iPad as a fast, precise tool for creativity"
+98,A needle in a haystack — validating our dating app idea
+99,How We Built Goodshows App
+100,The New Ecommerce User Experience
+101,Voice User Interface for StarCraft II
+102,How We Built FreshClub
+103,Booking.com  —  A Design Exercise
+104,How Hopper designs its own space in airfare booking
+105,UI/UX Case Study for the Restaurant App
+106,“You won't believe what they said...” [A UX Research Case Study]
+107,Enhancing Quora’s messaging UX
+108,Behind our new brand: Freetrade
+109,Building the Universal Menu of Tomorrow
+110,Make Facebook Better For Everyone
+111,How do I know if UI/UX design is my passion
+112,Building Zomato Gold
+113,LPG Utility – Case Study
+114,Flip — Everyone’s Sneaker Connect
+115,Airbnb Cereal
+116,User Archetypes
+117,Achieving Lift-off: How to Embrace a Rebrand
+118,Apple News — a usability case study
+119,A fish in your ear
+120,Case Study: Tasty Burger
+121,The Design Notes visual identity
+122,E-commerce UX Case Study: Société Store
+123,Lowering the barrier to entry of medicine
+124,Choosing Your Book of the Month
+125,Reading Experience Filters Concept
+126,Designing a VUI — Voice User Interface
+127,Case Study: Watering Tracker
+128,Reimagining Steam
+129,Xbox: Plugged In
+130,How Google created a custom Material theme
+131,How Dropbox is making their rebranding work
+132,Developing the Zomato design system
+133,How LEGO Run Design Sprints at Scale
+134,Priority Guides: A Content-First Alternative to Wireframes
+135,Eden  — UX  Design Process
+136,Case Study: Shortcuts.design.
+137,Walmart.com Redesigns As The Anti-Amazon
+138,UI and UX Design for a Mobile Photo Editor
+139,How to be a mediocre UI/UX Designer — [Case Study]
+140,This is how I turned photos into better experiences
+141,Designing a Theme for Trav­el Blog­gers
+142,UI/UX case study: Dealsdate
+143,UX/UI Case Study: Lighthouse
+144,How To Design For Optimal User Experiences (and delight users)
+145,A hunt for the perfect date picker UI
+146,UX Case Study on Jefit
+147,Navigacio: an app for traveling wizards
+148,Redesigning A Digital Interior Design Shop (A Case Study)
+149,Designmodo’s New Logo
+150,"Designing a calendar, making it timeless"
+151,Designing a marketing concept for a financial software company
+152,Quill App – Case Study
+153,Design Evoking Emotions: Herdius Case Study
+154,Slack iPhone Redesign Concept
+155,"Why transparent, open design leads to happier clients"
+156,Food Talk Privilege: Making Users Feel Privileged
+157,Clients and UX Research: Love at First Sight
+158,Getting to change. A redesign of Change.org
+159,Designing the new GYANT Health for iOS
+160,Designing New Ways to Give Context to News Stories
+161,Raised Real — Product Thinking & Case Study
+162,The inside story of Reddit's redesign
+163,A UX case study on a top marketplace app — Carousell
+164,Case Study: Gengo
+165,Designing a better cook: a look at Yummly
+166,Building a Brand for Creative Market Pro
+167,Make Navigation a Game
+168,Designing for open source software
+169,How a Product System can help you focus on what matters
+170,"Let’s redesign the entire platform, they said. It will be fun, they said."
+171,OneNuffield: UX Design Case Study
+172,UI/UX case study for the New York Times app
+173,On Design Workflow
+174,"Social Kitchen, an app that increases your Culinary Confidence"
+175,How we designed our Bank Account — NuConta Part II
+176,"Spencer, our mobile workplace assistant"
+177,How We Designed Whimsical for Speed 
+178,Instacart App: a guerrilla usability test
+179,Designing Spotify Jamroom
+180,Prepare for your next design interview
+181,Shping Mobile — In-depth product information for shoppers
+182,Foursquare: A UX case study
+183,Brightening up a Financial Brand
+184,What it’s like to spend 326 days on a massive product release
+185,Displacement of low-income families in San Francisco
+186,Uncovering the potential of mobile audio
+187,How to write good content as a mediocre UI/UX Designer
+188,Google Home App - Case Study
+189,A better way to find roommates
+190,How we solved our lack of app reviews
+191,Red Bull Records
+192,Designing Yahoo’s Winter Olympics Icons
+193,Here’s What Learning Should Look Like: A Coursera Redesign
+194,Manuva. UI/UX Design for Gym Fitness App From Tubick Studio
+195,Scarcity in UX: The psychological bias that became the norm
+196,A new Gmail (Concept)
+197,Iconic design and intuitive use meet in the new Stedelijk website
+198,Google design exercise: Faces app
+199,Inside Typeform version 2
+200,My Google Design Exercise: Pet Adoption
+201,Redesign of Wargaming Common Menu. Here’s what I learned
+202,"UX Case Study: Kinder, a kindness cultivating app"
+203,Designing a VUI – Voice User Interface
+204,Refining logos of Wikimedia Projects — a Brand Exercise
+205,The Windows 95 User Interface: A Case Study in Usability Engineering
+206,Udacity - Branding & Mobile App Case Study
+207,Designing beautiful mobile apps from scratch
+208,Optimizing Sketch Files
+209,Hyperloop Interface. Around the World in a Minute.
+210,Web Design Case Study: Lusha
+211,How I designed Otomate - Smart Home App
+212,UX Case Study — Apps Download Page
+213,Sportsbet.io  —  UI/UX Case study on bitcoin sports betting
+214,How to convince your team to switch to Figma
+215,The New Headspace
+216,Introducing the new Dashboard
+217,Air Lookout Is The Side Project That Changed My Design Process Forever
+218,Look at your product from a new perspective
+219,How building a design system empowers your team to focus on people — not pixels
+220,How we designed our bank account: NuConta — Part I
+221,The Making of Apple’s Emoji: How designing these tiny icons changed my life
+222,Case Study – Zepl - Making #bigdata friendly
+223,Tires monitoring – a User Experience design challenge
+224,Solving difficult design challenges?
+225,Challenge: To create an illustration style
+226,UI/UX Case Study: Charity App — Payment flow
+227,Color Hunt: Behind The Scenes
+228,How I accidentally launched a startup while waiting for my visa
+229,Kindara: My First UX Case Study
+230,UI/UX Case Study : A Brand New “Get Taxi Experience”
+231,How to Design for iPhone X (without an iPhone X)
+232,Artwork Personalization at Netflix
+233,Laying the foundations
+234,How we designed the future of local search
+235,EZbuy’s Self-Collection Process
+236,Creating a first Product Design System in Sketch
+237,UI/UX Case: My Car parking
+238,UI/UX Case Study : Designing a better cinema experience
+239,From zero to SMARTY in six months
+240,Transforming Directv’s Spanish Streaming Service
+241,Let’s Eo to Yachteo
+242,Case Study: Helping you find nearby people to run with
+243,NOMAD: A UX Case Study
+244,Skyscanner: Choosing the best travel dates
+245,Touching up blemishes on Sephora’s UI
+246,Daily Task Manager: Case Study
+247,Loree – Spreading culture through conversation
+248,Banco Galicia - Mobile App Design
+249,Fitgenie Case Study
+250,Eklos Branding & Landing Page Design
+251,Designing for a data-heavy platform
+252,LastPass — An Unsolicited Redesign
+253,Changing the way young cancer patients connect
+254,Booking.com — UX Analysis and Responsive Redesign
+255,How to enhance mobile interactions with sound design
+256,Redesigning Google News for everyone
+257,Introducing a new theatre form
+258,Cardoso Cupcakes - Digital Identity
+259,The Marvel Logo – An Insight Into My Process
+260,Building design process within teams
+261,How to create a UX writing portfolio
+262,Welcome to MACH and BETTER
+263,"All Thumbs, Why Reach Navigation Should Replace the Navbar in iOS Design"
+264,Samantha Zhang on Crafting Design Systems for Big Data
+265,Are Float Labels Really That Problematic After All?
+266,Houzz: a UX case study
+267,Redesigning Google Maps to simplify saving contact locations
+268,Refreshing The Atlantic Homepage in 2017
+269,A Mindful Design Process
+270,Product Design Exercises We Use At WeWork Interviews
+271,honestbee: A Usability Case Study
+272,Designing Purpose
+273,Design Better Data Tables
+274,"Mobile First, Desktop Worst"
+275,"Design Thinking vs Design Sprints, what’s the difference?"
+276,Size and layout of e-commerce product grids: a user research case study
+277,"""I Got Rejected by Apple Music… So I Redesigned It"""
+278,Imgix - Front-End Case Study
+279,How Intercom brings play into their design process
+280,Inside the Duolingo design process: Tinycards
+281,Meetup: A Usability Case Study
+282,Google Brand Black Belt
+283,Gmail: An Unsolicited Redesign (#1)
+284,The Iterative Process: Designing a Scheduling Component for Extra
+285,Psychology principles that balancing aesthetic and usability in interface design 
+286,A Tale of Beer
+287,Usability Test on Product Hunt for iPhone
+288,A guerilla usability test of Expensify
+289,Persona to Prototype: Artsy
+290,Case Studies – Examples of different types of sprints
+291,Linear UX
+292,Finding My Way Through The Amazon
+293,Redesigning Evernote for iOS
+294,Why Lorem ipsum is the word we don’t talk about anymore
+295,The Details That Matter
+296,Influencing redesign
+297,Use this exercise to solve any Product Design Challenge
+298,Chatbots: Your Ultimate Prototyping Tool
+299,SBB Mobile
+300,"VSCO, More Than Just Filters"
+301,Designing Glitch — Where We Started
+302,A Spacial Model for Lossless Web Navigation
+303,Designing a New OS for a Minimalist Phone – Siempo
+304,Runkeeper: A Usability Case Study
+305,Mideast Tunes
+306,Designing Facebook for Mobile VR
+307,The Three-Hour Brand Sprint
+308,"Global Bank Transfers, Faster than Email"
+309,Did Snapchat succeed because of its controversial UI?
+310,How UberEats could make ordering for groups of friends simpler 
+311,Putting the “Hip” Back in Hipmunk
+312,Zara: A Usability Case Study
+313,Instagram iOS Redesign
+314,Translating The Ounce’s offline brand to the modern web
+315,Crowning The Coolest Cut
+316,Case Study: Identity and Design System for a Digital Currency
+317,BrowserStack
+318,Part 1: Why redesign?
+319,Transforming a traditional service focussed company
+320,Building Version 1 of your app
+321,A practical use for Virtual Reality in the modern classroom
+322,Overcast 3: Design walkthrough
+323,Personal Identity
+324,Building SoundCloud
+325,User Research is Overrated
+326,Lessons learned while designing a fun personal finance tool
+327,Designing the new Flipboard
+328,Designing UX for a developer product
+329,Designing Live for Facebook Mentions
+330,We launched our company with a parody product
+331,zoomBot — Our Journey on Creating a Chat Bot for Real Estate
+332,Rebranding a digital bank: The story behind our new look
+333,Is Readymag The Ultimate Portfolio Tool For Designers?
+334,Redesigning Sidebar
+335,Case Study: Startup Branding Presentation
+336,Redesigning Ugmonk: A Year in the Making
+337,Break this Safe
+338,How To Build a Better Behance Case Study
+339,Case Study: SwiftyBeaver. Designing Logo
+340,Vevo on Apple TV: Music TV Reimagined
+341,Designing Adobe Portfolio
+342,Media coverage through data visualization
+343,"OneShot, a one week design case study"
+344,Finding the Right Color Palettes for Data Visualizations
+345,How SwiftKey is using Material Design to boost user engagement
+346,"News, in context"
+347,The Making of Gyroscope Running
+348,Design principles: choosing the right patterns
+349,Allocine Redesign
+350,Designing an idea
+351,Imagine a natural and immersive TV experience
+352,Big Web Quiz
+353,UX Team Dashboard
+354,Let’s change the way the world books air travel
+355,Wrangler Born Ready
+356,Circling Ourselves: The Story Behind Asana’s Rebrand
+357,Fontspiration
+358,Exploring the Product Design of the Stripe Dashboard for iPhone
+359, Designing the new Foursquare
+360,Making Learning Easy by Design
+361,How I Got Hired by DigitalOcean
+362,Keep everything. Share anything.
+363,A Place for Sharing Ideas and Stories
+364,A brand to catapult India's fastest growing startup
+365,Amazon Prime Music
+366,A retail experience that reinvents the way cars are sold
+367,Virgin America Case Study
+368,Working together to make bitcoin more approachable
+369,Plasma design system
+370,Case study: Peek Launcher
+371,Lossless Web Navigation with Trails
+372,Airbnb: Communicating Clarity and Charm
+373,Case study: Designing a digital learning platform for a local audience 
+374,Case study: Wireframing co-star Ironhack Prework UX/UI Design - Challenge 2
+375,Bringing the trial room experience to your doorsteps A UX design case study
+376,UI/UX Case Study&hairsp—&hairspSimplifying Jeans Shopping Experience using “Fit Me” Feature on Zalora 
+377,"Case study: Project management app In this case study, I’ll be sharing my process for designing this project management app XONNECT."
+378,"Wattpad is good, could be better!!!&hairsp—&hairspA UX Case Study "
+379,"Case study: mobile app to maintain visitors’ interest in museums. Wicked problem: team project, design thinking method."
+380,A step-by-step guide to your first UX case study&hairsp—&hairspannotated from discovery to delivery using a… How to tell the story of your project and find the right balance of what to focus on in your case study.
+381,Case study: UX research on helping travel companies cope the pandemic Context
+382,"Case Study: How we tried to change the world through UX Design During the bootcamp at Upgrade Hub, we participated in a Design Sprint: What is Design Sprint?"
+383,"Case study: implementing a feature into a native application Add a feature on Instagram solo project, focused on UI design"
+384,Case Study: Cognitive ergonomics in car screen interfaces A brief study about how effective car screen interfaces are in terms of cognitive ergonomics and how we can overcome problems it offers.
+385,"Case study: Cracking a complex project milestone in 4 hours As business analysts, working in large scale digital transformation projects can be both exciting and challenging. These projects can be…"
+386,Case study: Redesigning an OTT app Disclaimer: I am not affiliated with Vodafone Idea Limited in any capacity. The redesign is based on my experience with the app as a user…
+387,Case study: Stickers for better chatting experience New feature for Chat applications.
+388,Case Study: Community group-buying app for food products “We don’t need a handful of people doing zero waste. We need millions of people doing it imperfectly” Anne-Marie Bonneau&hairsp—&hairspZero Waste Chef
+389,Case study: UX redesign to help Airbnb battle the pandemic vibe The pandemic and businesses -the Deadly combo of the year 2020. The year where the most awarded business models started failing. The…
+390,Case Study: Three potential Spotify mobile UI improvements In this case study I explored three problems with the Spotify mobile app at the time of writing as I identified them. Since that time there…
+391,"Case Study: Here’s why having PCOS should be normalized We see PCOS is something that many people aren’t aware of, although it is something that every 1 woman out of 5 in India is diagnosed with."
+392,"Case study: Contact tracing app — designed for everyone At General Assembly, my group mates Fred, Gin and I were tasked to redesign a local contact tracing app created by Singapore’s Ministry of…"
+393,Case study: Redesigning Booking.com for greater search experience Can  Booking win bigger in UX before the revival of travel industry?
+394,Redesigning the UX of the keyboard But Why the need to redesign the keyboard?
+395,"Case study: UX redesign of a sales funnel application This case-study will approach the UX redesign of “SparkFunnels”, an automatic sales funnel creator app."
+396,Case Study: Designing Maynooth Furniture| An E-commerce Website 
+397,"Google pay, phonepe, walrus, and fitts’s law A glimpse of how fitts’s law is associated with payments through UPI applications"
+398,Case study: Redesigning a blood donation mobile application 
+399,Capstone&hairsp—&hairspGRO design doc 
+400,A mental health app for course correcting your negative emotions&hairsp—&hairspa UX case study 
+401,Case study: Meeting room booking solution To improve experience of employee in booking meeting rooms.
+402,Case study: Subscription management interface Walkthrough of the process of designing Subscription Management Interface
+403,Case study: How democratizing ambient air data can help improve our well-being post-covid-19? Building a smell-community for increased transparency and accuracy of Air Data is the need of the hour. But how do we implement it?- a UX…
+404,Case study: Learning math online Empowering grade 6–12 students to Conquer Math!
+405,Case study: questions that improve lives UX Case Study for Evolve website and survey design
+406,"Case study: the identity project The Identity Project is a social enterprise, a startup for refugee inclusion through social media & crowdfunding, with a focus on using…"
+407,"Case study: MakerGreen It is a green initiative, to establish a network of green rooftops across the city of Milan & create new experiences for the citizens."
+408,"Case study: Designing roles and permissions Have you ever wondered how do SaaS(Software as a Service) systems handle different operations departments and complex workflows, working…"
+409,Case study: Personal track and trace financial app Note: This task is done for my job application as UI/UX Designer. The time window is only one week and this was done during my spare time…
+410,"Case study: Getting users to show up at hotels they book What is OYO?
+OYO is the world’s third-largest hotel chain. They specialize in providing quality affordable budget stays. Apart from hotels…"
+411,Case Study: The UX behind India’s order & eat formula in today’s pandemic-era Feature introduction and UI changes
+412,Case study: How an app can help reduce chronic illness one broccoli at a time Vita in 15 seconds
+413,Case study: rediscovering thrifting Redesigning Depop for a faster-paced and less tedious thrifting experience.
+414,Case study: Elevating TikTok’s social value through co-watching A UX design project for Intro to Digital Product Design at Cornell University
+415,"Case Study: Making your next auto repair&hairsp—&hairspeasier Hi, I worked on this app as a part of the UX Design course I’m currently enrolled into, by Google available on Coursera."
+416,Case study: idea to pitchable product There is no better feeling then going from the light bulb idea to a pitchable product. It’s not the hunt of creating the hottest startup…
+417,"Case Study: User Research on Filmmaking Discord Community In this case study, we have done user research to understand the design process and behavior patterns for the niche Filmmaking where we…"
+418,"Case study: WhatsApp’s biggest ux failure Although WhatsApp doesn’t need any introduction but still here is some brief about it, WhatsApp is a FREE messaging app available for…"
+419,"Case study: Redefining online retail experience for ‘DMart’ This project delves into the design decisions that went into redesigning DMart ready, an online shopping app for retail giant- DMart"
+420,Shopping with a heart Tweaking a sustainable / ethical online shopping platform for better brand discoverability.
+421,Case study: Adding a feature to Pinterest Project Overview
+422,Case study: Rethinking “stories” for a music app Making music sharing a fun and effortless experience on a beloved platform.
+423,"Case study: Your local neighbourhood grocers, now online "
+424,Case study: “Connecting artists ” I have challenged myself to create and design a platform that connects new artists with potential art buyers. One of the main objectives…
+425,Case Study: Bringing a local Highgate bookstore into the 21st Century E-commerce project helping a conceptual local bookstore champion diversity and stand out amongst the bookseller giants.
+426,"Case Study: Crafting a Lego Mobile Game Experience When working with an iconic brand like Lego, the biggest goals & wins in a digital gaming experience undoubtedly go beyond layouts & flows."
+427,Case study: A car charging mobile app for the EV users What?
+428,"Case study: Introducing Spotify snippets, a new feature to enhance podcast based learning This project elaborates on my design journey in designing a new feature for the Spotify app. This was a personal project."
+429,Case study: Modernising and expanding a music tracker and social media app Last.fm’s companion app redesign
+430,"Case study: Designing citizen experiences from public services in Peru In times of change like the ones we are living in, it is urgent and necessary for public services and State’s communications to have a…"
+431,"Case study: Meaningful ways to save and invest, an exercise in user research The challenge set was to investigate the following question: “How might we create a service that delivers financial wellness”, for the…"
+432,Case study: UX research on Airbnb hosting Two-part series of analysis and redesigning hosting on Airbnb.
+433,Case study: Redesigning Amazon’s Kindle app for avid readers 3 UX Pain Points of Avid Ebook Readers and How to Fix Them
+434,Case study: reinterpreting the design of the electronic music events app Project Overview
+435,52 Weeks of Interaction Design&hairsp—&hairspWeek 4: The statistical peek Peeking through your stats for an expense management app.
+436,"Case study: MyOx watch application for students from oxford university A Watch Application Design, created for Oxford University’s students to help them keep track of their Grades, Timetable, receive…"
+437,Case study: Service industry redefined 
+438,"Case study: Fixing the hindrance By using the Design thinking approach to address, analyze and solve underlying issues for users while interacting with the bathroom."
+439,How can you make your UX Portfolio stand out?&hairsp—&hairspHere are 5 tips to exactly do that. What makes a good UX portfolio?
+440,Case study: Donate your hair Donate Your Hair is a campaign that used social data to encourage the donation of locks of hair for the benefit of children with cancer.
+441,Case study: Axis Workshops Streamlining the registration and onboarding process for a new collaboration tool.
+442,The story of the $300M button How design defaults shape user behavior
+443,Case Study: How to make a transaction list view more loveable Mobile Banking App Screen Redesign
+444,Case study: How UX can improve our way to ride around Lisbon How we use UX Design to understand and fix the difficulties in getting a shared bike to ride around Lisbon and its benefits during the…
+445,Case study: The house that needed a fresh lick of paint but still needed to feel like home A Visual Design (UI) Case Study | Solo Concept Project | Adaptive
+446,"Case study: My experience in designing a photography service and camera renting mobile platform Recently, I posted a UX design case study on camera renting and photography service platform on Behance."
+447,Case study: mobile app to help access sustainable food Making a mobile application for to help access sustainable food
+448,Case study: Medprex app 
+449,Case study: Vaccine app landing page A Dummy Project At Perxels (This is a documentation i was able to come up with from the brief i got and My design Process)
+450,Improving ATM Experience A Dummy Project at Perxels School Of Design
+451,Case study: A virtual crypto community research 🔥”Hottest token in the world that has aquired more than a million holders in less than two months.”
+452,Case study: a UX/UI project Connecting who has an unused tool at home with who needs one
+453,Case study: How I designed a wellness retreat booking platform Introduction
+454,Case study: Designing “Uber for ambulance” The process that shaped the design of an app that allows its users save lives with just a click.
+455,Case study: Booking concerts of indie musicians near you UX design case study on an app that allows people to book concerts around. Designed with a lean and iterative UX framework.
+456,"Case Study: Creating a specialised experience for sneaker-heads A case study by a beginner, at design bootcamp"
+457,"Case study: Not your run-of-the-mill bedroom experience A Design Thinking Exercise: Empathize, Define, Ideate, Prototype, and Test"
+458,"Case study: How to increase the elderly quality of life who lives alone Design Team: Lucas Mauric, Annay Melo, Solon Ferreira, Mariza Moura, Matheus Sakita, Fabrizzio Staffa.
+Role: UX Research, In-deep…"
+459,Case study: Improving the approval request process of an enterprise application Presentation mode: https://workflow-712082.webflow.io/
+460,Designing an interior design advice app for Made.com Project Scope: 4 People • 2 Weeks • Remote • Conceptual
+461,Case study: editorial design Hello and welcome! I completed my 4th Ironhack project and it was a challenge on editorial design. The challenge was:
+462,Case study: RideOn bicycle renting mobile application This is a case study for a concept mobile app called RideOn which allows users to rent bicycles around them.
+463,"Case study: Creating an app for first-time fathers A step towards a solution for first-time fathers to feel in control, supported, and at ease"
+464,Case Study: Waterstones enters the virtual bookclub market Designing a concept virtual bookclub app for Waterstones*
+465,"Case study: Making giving and receiving gifts less of a burden and more meaningful. Euphoria is an app concept, created to reduce the anxiety and the uncertainties involved with getting the perfect gift for a loved one."
+466,Case Study: Robot content management system (RCMS) Product design Robot content management system that enables users to control Humanoid robots user experience.
+467,Case study: How might we design an app to nudge financial literacy? A dummy project on UX Research | Property Investments | Sweden
+468,"Case study: Redesign of the Moment application. In the attention economy, capitalist companies steal our time and use us to earn money and data. But it is time to get back our time."
+469,Case study: Creating a light meter for indoor plants Designed with Xcode
+470,Case study: your pocket bank kit 🌥 Backdrop…
+471,"Case study: a 4-day Editorial Project Information Architecture, Visual Design, UI & Responsive Design"
+472,"Case Study: How to increase customer experience in retail Stores through technology? This Case Study Involves&hairsp—&hairspHow to approach Problem, requirement gathering, mockups, pricing strategy, GTM and every phase of product cycle."
+473,"Lyft redesign&hairsp—&hairspa UX case study I went to a Design Guru Summit workshop on May 17th. At the workshop, Frank Yoo, Lyft’s head of UX and product design at Lyft, talked…"
+474,Redesigning the New York Times app&hairsp—&hairspa UX case study Brief: Timely provide to quick read articles from 2–5 mins. Articles are catered to specific users based on their schedule and habits.
+475,Fitbit: the UX behind the habit of exercise&hairsp—&hairspa UX case study There are generally three types of people in the world when it comes to exercising:
+476,How to create stronger case studies Step off of the design portfolio assembly line with some critical thinking
+477,I Designed a New Year’s Resolution App Inspired by Atomic Habits I designed a better way to track habits and achieve goals
+478,Things I learned by publishing my first typeface How to overcome unproductive perfectionism and use the Internet to finally get your work out there.
+479,Action-driven design: putting UX and design theory to work Driving action by orchestrating designs that tap into how we are wired.
+480,"The two Google apps that don’t talk to each other, but should Little Features is a series of design led ‘quick wins’ that could improve the digital products we use in our everyday lives. This first…"
+481,Designing an inclusive networking platform for BIPOC creatives A 2-week journey to design a user-centered solution for BIPOC creatives
+482,Reimagining the Virgin Games sign-up process As part of a design task for a potential employer I’ve done a in-depth analysis of the current Virgin Games sign-up process and the…
+483,I paid $200 for an explainer video Here’s what I learned
+484,UX in competitive streaming: A take and on the Battle Royale streaming format This week we’re going to to take a more specific look into a particular genre to analyze how we can help improve the spectator experience.
+485,The mood search: an insight timer case study Finding a meditation can be stressful.
+486,Jungian Psychology applied to UX How I used Carl Jung “Psychological Types” theory in one of my UX projects
+487,"Yujuu! More fun, less headaches A look at the Yujuu project!"
+488,"Tito Taglish: designing a language learning app Branding, UX Design, and Web Development"
+489,The Art of “Frankenstein-ing”: when and how to combine designs through rapid A/B testing Our design team was faced with a new question: how can we reconcile our partners’ preexisting design work with our own?
+490,Redesigning the French train ticket platform&hairsp—&hairspa case study The first UX study case of our UX Bootcamp
+491,Redesigning SoundCloud with podcast listeners in mind&hairsp—&hairspa case study Improving navigation and the surfacing of podcast content in the SoundCloud app.
+492,"Redesigning the Apple Music experience&hairsp—&hairspa UX case study I am an avid user of Apple products and admire the unwavering devotion to simplicity, while maintaining sophistication and functionality…"
+493,Beep: Group Ordering for Food UX Tackling the hassle of group ordering food at work & home
+494,Proudly serving Black Rifle Coffee&hairsp—&hairspa UX case study I worked on researching possible solutions to solve issues within Black Rifle Coffee’s user purchasing experience. This case study…
+495,Google Home Reports UX Case Study Designing an electricity and water report screen for the Google Home mobile app
+496,"Bringing people together virtually through communal cooking Julienne is an iOS app that allows users to cook and connect with others simultaneously, no matter where they are."
+497,Redesigning a consultancy website for non-profits — a case study Web design doesn’t start by splashing colours in Figma like I’m freaking Picasso. It’s a long process.
+498,"Redesigning the Ultimate Guitar app The Ultimate Guitar mobile app is an excellent tool, but its UX/UI design is a bit perplexing. I attempted to simplify and streamline it…"
+499,Getting a little Headspace&hairsp—&hairspa UX case study Take a deep breath. It’s a phrase that has been used in every situation from dissolving tension in a heated meeting  to helping a friend…
+500,Improving catalogue & product discovery for resellers&hairsp—&hairspa product design case study 
+501,Spur civic engagement in the legislative process&hairsp—&hairspa UX case study 
+502,"How we built a webinar listing platform in just 3 days, remotely "
+503,AskRose: tales from a UX student 
+504,Turning time into money with Yield- a UX case study 
+505,Staying in the loop on a work communication app&hairsp—&hairspa Slack case study 
+506,Experience the world with TripPal&hairsp—&hairspa UX case study 
+507,Creating a resource network for the Coronavirus&hairsp—&hairspa UX case study 
+508,Connecting people through food&hairsp—&hairspa UX case study 
+509,“Please don’t flush the paper” 
+510,How to find project ideas for your portfolio 
+511,Blooming: A fun way to teach pronunciation to kid&hairsp—&hairspa detailed case study 
+512,Going beyond the classic competitive analysis matrix&hairsp—&hairspa UX case study 
+513,Wealth Management website revamp&hairsp—&hairspa fintech UX case study 
+514,How can a breakthrough in A.R. wayfinding contribute to a world-class tourism experience? 
+515,Designing a mental healthcare platform&hairsp—&hairspa UX case study 
+516,Designing the launch of a data-driven plane engine&hairsp—&hairspa UX case study 
+517,Improving the experience of a loyalty app&hairsp—&hairspdesign explorations 
+518,Redesigning Rogue Company 
+519,Designing an online book club experience&hairsp—&hairspa UX case study 
+520,Incorporating a UX Research practice in a 16 year old company 
+521,How I reverse-engineered a Blinkist user flow 
+522,Redesigning Houseparty- a UX case study 
+523,Designing a Q&A platform for college students&hairsp—&hairspa case study 
+524,Breakie | UI UX Case Study 
+525,UX Case Study: The creation of an expense tracking app Overview
+526,BC Sustainable Energy Association: Cool It! | UI UX Case Study Introduction
+527,NutriBullet Balance App Redesign concept-UIUX case study 
+528,Case Study: New Website for The National Community Art Museum of Malta Overview
+529,Case Study: Creating a new web presence for LGBTI+ Gozo The Maltese LGBTI+ organisation LGBTI+ Gozo had approached me to create a new website that reflected its new strategy. The following is…
+530,Gift-giving made simple: A UX case study 
+531,QRL Genesys: Design Concept and Rebranding Case Study Designing a vision and branding for a cross-platform app IT users use to get answers so they can keep moving.
+532,UX and UI Case Study: POCA Introduction
+533,UI/UX Case Study: Hoppler&hairsp—&hairspFinding the right home for you. Property listing site. 
+534,"DOVE | Designing a mobile app to help women with self-esteem. Research, design studios, ideation, prototyping and usability testing: 
+Concept project at General Assembly LON."
+535,Skippr: Modern Cash Flow Finance Skippr enables a business to forecast cash flow seamlessly online and access cash using a flexible cash flow finance solution.
+536,UX • UI&hairsp—&hairspGiver.be App An app to connect who needs help with who wants to help.
+537,Bitmini | UI UX Case Study Why do we need more forms of cryptocurrency? Don’t we already have more than enough? What makes Bitmini.org so special?
+538,UX designer’s role in business strategy_ Responsive Web Redesign 
+539,UX/UI Case Study: Preception Introduction
+540,"UX Design Case Study for RxBIO The Brief: Create a responsive website for RxBIO, a biotech product distributor."
+541,L!SNEN: An assistive app for the deaf and hard of hearing. 
+542,UX/UI Case Study: Engager Rings&hairsp—&hairspCustom Engagement Jewelry A design challenge to improve the user experience of a family legacy in the digital space.
+543,Mobile payments for the enterprise UX/UI design and redesign About the project
+544,LastPass Application Security Questions Features redesign concept&hairsp—&hairspUX case study Introduction
+545,Pet Depot ecommerce site Creating an online shopping experience for family-owned pet shop
+546,"Modern OM, Redesign Case Study Modern OM was Established in 2015, Modern OM is a lifestyle brand that uses color to infuse the seven chakra-based intentions into its…"
+547,Flow a Wellness Case Study A self directed assignment for the National Wellness Institute
+548,A Reporting & Analytical Digital Product Case Study 
+549,NSW Department of Education This was a waterfall project done with a team of 4 UX Designers.
+550,Remaining healthy while traveling: a UX case study Understanding the problem
+551,Rethinking an application against food waste and pro sustainability 
+552,UX Case Study: Mavis McMullen Housing Society 
+553,UX/UI Case Study | InSight Out Consulting Inc. 
+554,"UX Design Case Study For Santé Circle Health The Brief: Design Santé Circle Health’s app SAM, with an emphasis on user comfort and usability."
+555,"Project Lincoln Rethinking, how we get to know our clients in a fintech product"
+556,Improving the experience of booking a flight&hairsp—&hairspA UX case study Booking a flight with a mobile phone was the theme I chose as part of an exercise from the online course I took at The Gymnasium. My goal…
+557,YouTube Concept: Improving the “Toxic” Comments Section 
+558,"Case Study&hairsp—&hairspRedesigning the shopping experience at a local fancy dress shop in Shoreditch, London For my very first UX Design project, I did a concept project in 2 weeks. The brief was about a local fancy dress shop based in the…"
+559,App for Coaches&hairsp—&hairspUX case study A study project for UX course on how to make coach’s planning work easier
+560,Note app for teams Enterprise Note app UI/UX for teams
+561,"MangoPlate: App Redesign Re-envisioning Eat, Share, Be Happy"
+562,Case Study: Creating the Lender Handler App It is not the first time that we lend or borrow objects with one another. I often find myself lending a book to someone only to forget all…
+563,"UI/UX Case study: OneFlushAway Ever have a time when you were out and needed to use a public bathroom, which turned out to be so disgusting that you had to look for…"
+564,"UI/UX Case Study for a Student Portal Schedule Feature Brief: Provide university class schedule at-a-glance, including wait-listed classes and no time scheduled (online) courses. Classes are…"
+565,"American SPCC&hairsp—&hairspA UX Non-Profit Case Study Role: UX Designer 
+Duration: 1 month
+Process: Competitive Analysis, Sitemap
+Card Sort, Survey, Wireframes
+Tools: Usability Hub, Optimal…"
+566,Learning by Redesigning: Improving the Mobile Experience of my School’s LMS 
+567,Building a better rate display page on Bestwestern.com | UI/UX Case Study 
+568,"UX Case Study: Collingwood Neighbourhood House Website Collingwood Neighbourhood House (CNH) is a place where the community can take part in various programs, receive services, etc. It differs…"
+569,"UX/UI Design Case Study: Professional Website for Acuity Partners By Sissi Ke, Shubhani Jindal, Rayisa Chowdhury, Gerald Bautista"
+570,The essential guide to enterprise login and sign up UX and UI 
+571,UX/UI Case Study | EcoAI 
+572,Crushed Red Peppers UX case study
+573,Medication Disposal UX/UI Design Last week we finally finished a UX/UI project about safe medication disposal. The reason we are doing this topic is because I just read a…
